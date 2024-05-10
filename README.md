@@ -1,4 +1,4 @@
-# Data-Science-Jobs-salaries-dashboard
+# Data Science Job salary Insight dashboard
 
 ## Overview
 This Tableau dashboard provides an interactive exploration of data science job salaries, based on various factors including location, experience level, employment type, and job role. This project aims to provide stakeholders with clear insights into salary trends within the data science field, helping to inform recruitment strategies and compensation plans. 
